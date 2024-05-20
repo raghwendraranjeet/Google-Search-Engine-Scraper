@@ -31,12 +31,12 @@ The primary goal of this project is to create a tool that automates the extracti
 ### Configuration
 Create a config.yaml file in the same directory as your script with the following content:
 
-yaml
+..yaml
 FILENAME: 'Google_Search_Engine'
-JOB_PROFILE: 'Data Analyst'
+JOB_PROFILE: 'keyword'
 LOCATION: 'Bangalore'
 NUM_PAGES: 4
-
+...
 
 ### Running the Script
 1. Ensure the config.yaml file is correctly set up with your desired parameters.
